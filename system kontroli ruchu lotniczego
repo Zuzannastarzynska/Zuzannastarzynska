@@ -1,0 +1,38 @@
+System kontroli ruchu lotniczego
+Personel:
+Personel jest podstawową składową w naszym projekcie. 
+Składa sie na niego cały Dział IT, czyli projektanci, programiści, analtycy, konstruktorzy, testerzy oraz bezpiecznik. odpowiadają oni za funkcjonowanie systemu.
+Kolejną grupa jest zarząd z dyrektorem na czele. Odpowiadają oni za kwestie organizacyjne w projekcie. 
+Następnie osoba zajmująca się makretingiem, która będzie współpracować ze sponsorami. 
+Ostatnim, nie mniej ważnym jest prawnik, który zajmie się wszelkimi unormowaniami prawnymi czy umowami. Jest to kluczowa rola w tworzeniu systemu.
+Infrastruktura:
+Kolejną składową jest infrastruktura.
+W jej skład wchodzą wszystkie miejsca potrzebne do funkcjonowania presonelu i systemu.
+Głównie są to pomieszczenia socjalne dla personelu. Można do nich zaliczyć siedzibę firmy jak i wieżę kontroli ruchu lotniczego znajdującą się na lotnisku.
+Pomieszczenia socjalne są przeznaczone zarówno do pracy działu IT, jak i do przeprowadzania szkoleń dla pracowników. 
+W skład infrastruktury wchodzą również serwerownie, które są kluczowe w nieprzerwanym funkcjonowaniu systemu. 
+Aplikacja:
+Aplikacja, czyli zestawienie wszystkich funkcji systemu tak aby tworzył zgodną całość. 
+W jej skład wchodzą wszelkie bazy danych, takie jak baza danych lotów, baza danych aktualnych warunków atmosferyczych.
+Równie ważnym elementem są interfejsy. 
+Pierwszy z nich, przeznaczony dla kontrolera ruchu lotniczego, który przedstawia wszystkie loty odbywające się w danym momencie. 
+Drugi, przeznaczony dla pilota, który będzie widział aktualną prognoze oraz loty na jego trasie lotu.
+Następnym ważnym elementem jest back - up, kótry zapewni nam dostęp do wszystkich informacji, oraz zabezpieczy ich utrate.
+Kolejno, bardzo istotny jest serwer aplikacji, bez którego nie mogłaby ona funkcjonować. 
+Następnie można wymienić wszelkie instrukcje oraz materiały szkoleniowe dla personelu. 
+Ostatnią składową jest logo aplikacji, które pełni funkcje wizerunkowe. 
+Składową, którą można zaliczyć do aplikacji jest dostęp do systemu CADAS, który ma informacje o wszystkich odbywających się lotach. 
+Sprzęt:
+Sprzęt jest równie ważnym elementem. Zalicza się do niego hardware, czyli wszystkie zasoby elektroniczne takie jak komputery, monitory i tym podobne.
+Kolejną ważną składową jest cały sprzęt odpowiadający za łączność. 
+W jego skład wchodzą: radiotelefony, które umożliwiają łączność na linii pilot - kontroler. Następnie odbiorniki, kótre również uczestnicza w wymianie informacji między samolotem a wieżą. 
+Kolejną składową są radary. Wymagane są dla prawidłowego funkcjonowania pracy systemu, wykrywają wszelki ruch powietrzny oraz lądowy. 
+Przy radarach znajdują się również anteny, odbierające i przekazujące fale elektromagentyczne. 
+Ostatnim istotnym elementem są mapy. Zarówno w postaci papierowej jak i elektronicznej. Odgrywają bardzo ważną rolę w wyznaczaniu trasy lotów. 
+Szkolenia:
+Jest to jednen z najważniejszych aspektów wymaganych przy prawidłowym funkcjonowaniu systemu. 
+Szkolenia są wymagane dla całej kadry pracującej przy projekcie, jak i dla późniejszych użytkowników systemu.
+Szkolenia dla kadry obejmują te bardziej techniczne dla działu IT oraz dla pozostałego presonelu. 
+Polegają one na uświadomieniu o ryzyku w przypadku złamania np.: umowy ale i również zabezpieczeniu danych osobowych czy informacji wrażliwych dla projektu. 
+Szkolenia dla użytkowników systemu opierają się głównie na przedstawieniu funkcji pilotom oraz kontrolerom ruchu lotniczego, tak aby użytkowanie go było efektywne. 
+Przeprowadzenie szkoleń w późniejszych etapach zmnieszy ryzyko ujawnienia informacji niejawnych, co za tym idzie, spowoduję że system będzie bezpieczny do użytku zarówno na rynku cywilnym jak i wojskowym. 
